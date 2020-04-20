@@ -3,44 +3,19 @@
 
 ## **Flutter native apps:**
 
-Table | Row
------|----
-*Movie Concept inspired by diegoveloper*  | *Instagram Layout Clone*
+App | App
+:-----:|:-----:
+*Movie Concept inspired by diegoveloper* [[Code](experiment/lib/movie_concept)] | *Instagram Layout Clone* [[Code](experiment/lib/instagram_clone)]
 ![Movie Concept](assets/movie_concept.gif) | ![Instagram Layout Clone](assets/instagram_layout_clone.gif)
-*Food Menu Concept + Providers inspired by Udemy Course*  | *Shoe Shop Concept inspired by diegoveloper*
+*Food Menu Concept + Providers inspired by Udemy Course* [[Code](food_menu)]  | *Shoe Shop Concept inspired by diegoveloper* [[Code](experiment/lib/shoe_shop)]
 ![Food Menu](assets/food_menu.gif) | ![Shoe Shop](assets/shoe_shop.gif)
+*Budget Recorder inspired by Udemy Course* [[Code](expense_recorder)] | *Custom List Controller* [[Code](experiment/lib/list_controller)]
+![Budget Recorder](assets/budget_record.gif) | ![List Controller](assets/list_controller.gif)
+*Ball Shop Concept inspired by diegoveloper* [[Code](experiment/lib/ball_shop)] | *WhatApp Layout Clone* [[Code](experiment/lib/whatsapp_clone)]
+![Ball Shop](assets/ball_shop.gif) | ![WhatsApp Layout Clone](assets/whatsapp_layout_clone.gif)
+*Sqflite CRUD + AnimationSwitcher* [[Code](experiment/lib/sqflite_crud)] | *Book Shop + FireBase backend inspired by Udemy Course* [[Code](shop_concept)]
+![SQL Animation](assets/sql_animation.gif) | ![Book Shop](assets/book_shop.gif)
 
-
-
-*Movie Concept inspired by diegoveloper* [[Code](experiment/lib/movie_concept)]
-![Ball Shop](assets/movie_concept.gif)
-
-*Food Menu Concept + Providers inspired by Udemy Course* [[Code](food_menu)]
-![Food Menu](assets/food_menu.gif)
-
-*Instagram Layout Clone* [[Code](experiment/lib/instagram_clone)]
-![Instagram Layout Clone](assets/instagram_layout_clone.gif)
-
-*Shoe Shop Concept inspired by diegoveloper* [[Code](experiment/lib/shoe_shop)]
-![Shoe Shop](assets/shoe_shop.gif)
-
-*Budget Recorder inspired by Udemy Course* [[Code](expense_recorder)]
-![Budget Recorder](assets/budget_record.gif)
-
-*Custom List Controller* [[Code](experiment/lib/list_controller)]
-![List Controller](assets/list_controller.gif)
-
-*Ball Shop Concept inspired by diegoveloper* [[Code](experiment/lib/ball_shop)]
-![Ball Shop](assets/ball_shop.gif)
-
-*WhatApp Layout Clone* [[Code](experiment/lib/whatsapp_clone)]
-![WhatsApp Layout Clone](assets/whatsapp_layout_clone.gif)
-
-*Sqflite CRUD + AnimationSwitcher* [[Code](experiment/lib/sqflite_crud)]
-![SQL Animation](assets/sql_animation.gif)
-
-*Book Shop + FireBase backend inspired by Udemy Course* [[Code](shop_concept)]
-![Book Shop](assets/book_shop.gif)
 
 ---
 
