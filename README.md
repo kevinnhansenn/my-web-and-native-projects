@@ -42,13 +42,13 @@ Passport | Authentication
 
  *** 
 
-*Private chat room - demo project (2020) Part 1* [[Code](trySocket)]
+*Private chat room - demo project (2020) Part 1* [[Code](https://github.com/kevinnhansenn/TRYSOCKET)]
 ![Part 1](assets/part1.gif)
 
-*Private chat room - demo project (2020) Part 2* [[Code](trySocket)]
+*Private chat room - demo project (2020) Part 2* [[Code](https://github.com/kevinnhansenn/TRYSOCKET)]
 ![Part 2](assets/part2.gif)
 
-*Private chat room - demo project (2020) Part 3* [[Code](trySocket)]
+*Private chat room - demo project (2020) Part 3* [[Code](https://github.com/kevinnhansenn/TRYSOCKET)]
 ![Part 3](assets/part3.gif)
 
 ### The web app is build using the integration of:
