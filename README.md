@@ -3,6 +3,15 @@
 
 ## **Flutter native apps:**
 
+* | *
+:-----:|:-----:
+*Movie Concept inspired by diegoveloper*  | *Instagram Layout Clone*
+![Movie Concept](assets/movie_concept.gif) | ![Instagram Layout Clone](assets/instagram_layout_clone.gif)
+*Food Menu Concept + Providers inspired by Udemy Course*  | *Shoe Shop Concept inspired by diegoveloper*
+![Food Menu](assets/food_menu.gif) | ![Shoe Shop](assets/shoe_shop.gif)
+
+
+
 *Movie Concept inspired by diegoveloper* [[Code](experiment/lib/movie_concept)]
 ![Ball Shop](assets/movie_concept.gif)
 
